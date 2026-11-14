@@ -1,0 +1,5 @@
+*.workspace
+*.pdsbak
+Project Backups
+/gerbers
+~*
